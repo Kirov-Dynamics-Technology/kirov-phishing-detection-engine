@@ -1,0 +1,48 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.env
+
+# Node
+node_modules/
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ML models
+server/app/ml-models/*.h5
+server/app/ml-models/*.pkl
+server/app/ml-models/*.onnx
+
+# Browser extension builds
+extension/chrome/dist/
+extension/firefox/dist/
+extension/*.zip
+
+# Docker
+docker-compose.override.yml
+
+# Secrets
+*.pem
+*.key
+*.cert
+api-keys.json
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
