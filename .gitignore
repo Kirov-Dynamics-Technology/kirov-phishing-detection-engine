@@ -33,6 +33,16 @@ extension/chrome/dist/
 extension/firefox/dist/
 extension/*.zip
 
+# Environment
+.env.local
+.env.production
+
+# Logs
+*.log
+
+# Vercel
+.vercel
+
 # Docker
 docker-compose.override.yml
 
