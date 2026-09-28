@@ -8,7 +8,7 @@ pydantic-settings==2.1.0
 httpx==0.27.0
 python-multipart==0.0.31
 torch==2.13.0
-transformers==5.5.0
+transformers==5.10.1
 onnxruntime==1.17.1
 scikit-learn==1.5.0
 celery==5.3.6
