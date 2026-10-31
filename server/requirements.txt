@@ -16,6 +16,6 @@ alembic==1.13.1
 greenlet==3.0.3
 Pillow==12.3.0
 tesserocr==2.6.2
-dnspython==2.6.1
+dnspython==2.9.0
 whois==0.9.4
 prometheus-client==0.20.0
